@@ -102,14 +102,14 @@
         <script
           src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
         <df-messenger
-          project-id="your-project-id"
-          agent-id="4e166055-7ed3-4ffb-abf6-ee0d75abf823"
+          project-id="propane-tree-414719"
+          agent-id="ff0e37b8-cbdb-4466-ae96-b09ddb77928f"
           language-code="en"
           storage-option="none"
           class="drop-shadow-lg"
           max-query-length=-1>
           <df-messenger-chat
-            chat-title="Google Store - Vertex AI Conversation"
+            chat-title="Norwich University - Engineering Chatbot"
             bot-writing-text="..."
             placeholder-text="Ask me anything about the Google Store..." />
         </df-messenger>
